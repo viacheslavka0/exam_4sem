@@ -1,0 +1,26 @@
+{
+  "name": "exz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslavka0/exam_4sem.git"
+  },
+  "author": "Vyacheslav  Sinyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslavka0/exam_4sem/issues"
+  },
+  "homepage": "https://github.com/viacheslavka0/exam_4sem#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "node": "^18.4.0"
+  }
+}
